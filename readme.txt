@@ -1,1 +1,2 @@
-fraze
+fraz
+vel vien rinda klāt
